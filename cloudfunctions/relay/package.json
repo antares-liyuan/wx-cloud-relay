@@ -1,0 +1,1 @@
+{ "name": "relay", "version": "1.0.0", "description": "WeChat mini-program cloud relay to an overseas origin with cache", "main": "index.js", "dependencies": { "wx-server-sdk": "~3.0.1" } }

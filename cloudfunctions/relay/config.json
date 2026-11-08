@@ -1,0 +1,4 @@
+{
+  "permissions": { "openapi": [] },
+  "triggers": [ { "name": "prewarm", "type": "timer", "config": "0 */10 * * * * *" } ]
+}
